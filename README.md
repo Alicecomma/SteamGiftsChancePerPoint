@@ -15,6 +15,7 @@ Calculations are entirely client-side, so there's no SG requests and you will ha
 ## Giveaway rows
 ![image](https://github.com/Alicecomma/SteamGiftsChancePerPoint/assets/4662406/d7e4bb61-53a7-4068-8b52-c0d01ed14930)
  - Browse > All through to New: Win chance is shown in promille (1 in 1,000) and in promille per point. The calculation takes into account nr. of copies, entries and points.
+ - A summary of win chance is given at a header, showing win chance of entered and of un-entered giveaways in percent (1 in 100)
 
 ## Table rows
 ![image](https://github.com/Alicecomma/SteamGiftsChancePerPoint/assets/4662406/cdd59da0-e7c2-47aa-9712-e072aacaf616)
